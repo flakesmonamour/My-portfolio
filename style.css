@@ -3,3 +3,67 @@
     padding: 0px;
     font-family: 'poppins', sans-serif;
 }
+.navbar{
+    width:85%;
+    margin-left: 70%;
+    padding: 35px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 0px 20px;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+}
+.card{
+    width:200px;
+    height: 240px;
+    display: inline-block;
+    border-radius: 10px;
+    padding:15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(developer-velocity-1536x1536.webp)
+    }
+.card2{
+    width:200px;
+    height: 240px;
+    display: inline-block;
+    border-radius: 10px;
+    padding:15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(photo-1472437774355-71ab6752b434.jpg);
+    background-size: cover;
+}
+h2{
+    color: white;
+}
+p{
+    color: white;
+}
+h3{
+    color: white;
+}
+h1{
+    color:blueviolet;
+}
+h5{
+    color: burlywood;
+    font-size: 20px;
+}
+h6{
+    color: burlywood;
+    font-size: 20px;
+}
+.span{
+    color: white;
+}
